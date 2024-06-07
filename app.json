@@ -1,12 +1,12 @@
 {
-  "name": "VAJIRA-MD",
-  "description": "VAJIRA-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻",
-  "logo": "https://telegra.ph/file/235d945df230d71f246b6.jpg",
-  "keywords": ["vajiramd", "bot", "whatsapp bot", "multi device", "vajira-md"],
+  "name": "Mr HS",
+  "description": "Mr Hasnain👨‍💻",
+  "logo": "https://telegra.ph/file/bbf8e8e1c1715903aec22.jpg",
+  "keywords": ["Hs", "bot", "whatsapp Hs bot", "multi device Hs Bot", "Hs-md"],
   "success_url": "/",
 
   "env": {
-    "SESSION_ID": {
+    "SESSION_ID": {VAJIRA-MD=6Qk2UTKD#XCD3r8AsL1_GBKwyFiXprktQmKejunHOpAf0NP3LAxk
             "description": "Type the Session-ID you got from scaning QR",
             "required": true,
             "value": "put session id here"
