@@ -3,10 +3,10 @@
   "description": "Mr Hasnain👨‍💻",
   "logo": "https://telegra.ph/file/bbf8e8e1c1715903aec22.jpg",
   "keywords": ["Hs", "bot", "whatsapp Hs bot", "multi device Hs Bot", "Hs-md"],
-  "success_url": "/",
+  "success_url": "/" ","
 
   "env": {
-    "SESSION_ID": {VAJIRA-MD=6Qk2UTKD#XCD3r8AsL1_GBKwyFiXprktQmKejunHOpAf0NP3LAxk
+    "SESSION_ID": {
             "description": "Type the Session-ID you got from scaning QR",
             "required": true,
             "value": "put session id here"
